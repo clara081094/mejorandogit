@@ -1,0 +1,35 @@
+commit ac680c26adc35d62f3284b6d35939249006ce041
+Author: Ricardo Quiñonez <ricardo@localhost.localdomain>
+Date:   Wed Feb 4 17:38:45 2015 -0500
+
+    Agregue un sitio web creado por mi
+
+commit acfb11dbe23bc34d6d3ed7daff610b340e2d3a09
+Author: Ricardo Quiñonez <ricardo@localhost.localdomain>
+Date:   Wed Feb 4 17:37:38 2015 -0500
+
+    Agregue descripcion de proyecto
+
+commit 4e713049929b37d6432778cc394d76392a140a82
+Author: Ricardo Quiñonez <ricardo@localhost.localdomain>
+Date:   Wed Feb 4 17:36:33 2015 -0500
+
+    Agrege direccion de facebook
+
+commit a01967cbe36fad944a40d8a159b1a4e1bfe53e89
+Author: Ricardo Quiñonez <ricardo@localhost.localdomain>
+Date:   Wed Feb 4 17:34:58 2015 -0500
+
+    Se escribio el perfil
+
+commit cdc270cc38344ecf3d2a7649a7b7e652a630bd54
+Author: Ricardo Quiñonez <ricardo@localhost.localdomain>
+Date:   Wed Feb 4 17:31:44 2015 -0500
+
+    Subi foto de perfil y mi nombre
+
+commit 1ab8096515bffd02fd52dd204f40fc43816902f4
+Author: Ricardo Quiñonez <ricardo@localhost.localdomain>
+Date:   Wed Feb 4 17:27:19 2015 -0500
+
+    Estos son los archivos del portafolio
